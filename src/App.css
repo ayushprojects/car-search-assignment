@@ -1,0 +1,70 @@
+body {
+  background-color: lightcyan;
+}
+.car-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.car-card {
+  width: calc(33.33% - 10px); /* 10px accounts for margin between cards */
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  border: 2px solid lightblue;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+}
+.car-name {
+  color: blue;
+  font-weight: 600;
+  font-size: larger;
+  padding-left: 10px;
+}
+.car-img {
+  flex-grow: 1; /* Make the image take up remaining vertical space */
+  max-width: 100%;
+  height: auto; /* Allow the height to adjust based on the aspect ratio */
+  object-fit: cover; /* Maintain aspect ratio and cover the entire space */
+  border-radius: 10px;
+}
+.specs {
+  display: flex;
+  padding-left: 10px;
+  color: blue;
+  gap: 50%;
+}
+
+.search-bar input {
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+.search-bar button {
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  background-color: blue;
+  color: white;
+}
+.rent-btn {
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  background-color: blue;
+  color: white;
+  width: 20%;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.btn {
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+  margin-bottom: 10px;
+}

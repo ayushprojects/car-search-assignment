@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Dodge charger",
+    "color": "Black",
+    "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80",
+    "model": "2020",
+    "people": "4",
+    "price": "400"
+  },
+  {
+    "name": "Chevrolet",
+    "color": "white",
+    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+    "model": "2020",
+    "people": "4",
+    "price": "400"
+  },
+  {
+    "name": "Lamborghini",
+    "color": "white",
+    "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80",
+    "model": "2020",
+    "people": "4",
+    "price": "400"
+  },
+  {
+    "name": "Range rover",
+    "color": "Black",
+    "image": "https://images.unsplash.com/photo-1471289549423-04adaecfa1f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1253&q=80",
+    "model": "2020",
+    "people": "4",
+    "price": "400"
+  },
+  {
+    "name": "Range rover",
+    "color": "Black",
+    "image": "https://images.unsplash.com/photo-1471289549423-04adaecfa1f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1253&q=80",
+    "model": "2020",
+    "people": "4",
+    "price": "400"
+  },
+  {
+    "name": "Range rover",
+    "color": "Black",
+    "image": "https://images.unsplash.com/photo-1471289549423-04adaecfa1f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1253&q=80",
+    "model": "2020",
+    "people": "4",
+    "price": "400"
+  },
+  {
+    "name": "Range rover",
+    "color": "Black",
+    "image": "https://images.unsplash.com/photo-1471289549423-04adaecfa1f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1253&q=80",
+    "model": "2020",
+    "people": "4",
+    "price": "400"
+  },
+  {
+    "name": "Range rover",
+    "color": "Black",
+    "image": "https://images.unsplash.com/photo-1471289549423-04adaecfa1f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1253&q=80",
+    "model": "2020",
+    "people": "4",
+    "price": "400"
+  },
+  {
+    "name": "Range rover",
+    "color": "Black",
+    "image": "https://images.unsplash.com/photo-1471289549423-04adaecfa1f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1253&q=80",
+    "model": "2020",
+    "people": "4",
+    "price": "400"
+  },
+  {
+    "name": "Range rover",
+    "color": "Black",
+    "image": "https://images.unsplash.com/photo-1471289549423-04adaecfa1f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1253&q=80",
+    "model": "2020",
+    "people": "4",
+    "price": "400"
+  }
+]
